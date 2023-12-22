@@ -15,5 +15,7 @@ For chatbot API, we used python for the runner. This API was deployed in cloud r
 - Deploy Chatbot API
 
 ## Cloud Computing Team Members
-1. C296BSX3355 Alya Fatin Fadhiyah Muhaimin Putri-Universitas Pembangunan Nasional Veteran Jawa Timur
-2. C296BSY3927 Radithya Markarito Ariputra–Universitas Pembangunan Nasional Veteran Jawa Timur
+1. C296BSX3355 Alya Fatin Fadhiyah Muhaimin Putri
+Universitas Pembangunan Nasional Veteran Jawa Timur
+2. C296BSY3927 Radithya Markarito Ariputra
+Universitas Pembangunan Nasional Veteran Jawa Timur
